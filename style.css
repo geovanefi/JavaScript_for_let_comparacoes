@@ -1,0 +1,49 @@
+
+
+body {
+    background: rgba(6, 94, 112, 0.767);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font: medium 20px;
+}
+
+header {
+    color: bisque;
+    text-align: center;
+}
+
+section {
+    background: whitesmoke;
+    position: relative;
+    border-radius: 5%;
+    padding: 15px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.795);
+
+}
+h3 {
+    text-align: center;
+    text-decoration: rgba(16, 16, 100, 0.89);
+    text-decoration: dashed;
+    font-family: fantasy;
+    font-size: xx-large;
+    padding-bottom: 0em;
+    margin-bottom: 0cm;
+    
+    
+}
+select#flista {
+    width: 150px;
+    border-radius: 8px;
+    position: center;
+}
+#res {
+    padding: 3px 3px;
+}
+
+footer {
+    color: bisque;
+    text-align: center;
+    font-style: italic;
+}
